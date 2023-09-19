@@ -1,0 +1,2 @@
+#ff3838; dark red
+#e42b2b; light red
