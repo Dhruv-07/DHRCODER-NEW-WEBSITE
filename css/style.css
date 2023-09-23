@@ -1561,7 +1561,7 @@ Scroll To Top style
     font-weight: 800;
     overflow: hidden;
     color: #ffffff;
-    background: var(--bg-theme-color2);
+    background: #e43b3b;
     -webkit-transition: all 500ms ease;
     transition: all 500ms ease;
     border-radius: 10px;
