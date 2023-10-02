@@ -928,7 +928,7 @@ li {
     width: 100%;
     height: 100%;
     z-index: 999999;
-    background-color: #ce0712;
+    background-color: #ffffff;
 }
 
 .preloader:after {
@@ -941,8 +941,8 @@ li {
     margin-top: -60px;
     background-position: center center;
     background-repeat: no-repeat;
-    background-image: url(../images/icons/rocket.gif);
-    background-size: 100px;
+    background-image: url(../images/icons/preloader.gif);
+    background-size: 70px;
     content: "";
 }
 
